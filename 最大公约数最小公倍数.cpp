@@ -25,6 +25,7 @@ int main()
     cin>>a>>b;
 
     gcd(a,b);
+	//最小公倍数
     cout<<(a*b)/temp;
 
     return 0;
